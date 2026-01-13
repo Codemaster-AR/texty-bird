@@ -1,4 +1,4 @@
-Understood! I’ve updated the Mac/Linux section to clearly show that they have two distinct choices: using the terminal command **or** simply clicking the file. I also refined the folder navigation to make sure the `cd` commands are accurate for the Desktop setup.
+## https://github.com/Codemaster-AR/texty-bird
 
 ---
 
